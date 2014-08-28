@@ -38,7 +38,7 @@ Docker Beijing 是国内最早成立的 Docker Meetup 群组，得到了 Docker,
 
 - **[陈轶飞](http://weibo.com/bjchenyf)**： **A Case Of Applying Docker To Production**
 
-[陈轶飞](http://weibo.com/bjchenyf)是百度 BAE 项目负责人，带领团队完成从 BAE 2.0 向 3.0 的升级，他也是2013年 51CTO 云计算构架师峰会讲师。
+[陈轶飞](http://weibo.com/bjchenyf) 是百度 BAE 项目负责人，带领团队完成从 BAE 2.0 向 3.0 的升级，他也是2013年 51CTO 云计算构架师峰会讲师。
 
 他全面介绍了轻量级虚拟化技术，百度选择 Docker 构建 BAE 的前因后果，以及 BAE 在实战中遇到的问题及解决方案。
 
@@ -57,7 +57,7 @@ ___
 
 - **[桂阳](http://weibo.com/u/1656755095)**：**通过工作流实现 docker 在 coreos 的自动化部署**
 
-[桂阳](http://weibo.com/u/1656755095)毕业于北京航空航天大学软件学院，目前在自主创业。
+[桂阳](http://weibo.com/u/1656755095) 毕业于北京航空航天大学软件学院，目前在自主创业。
 
 **通过工作流实现 docker 在 coreos 的自动化部署**
 
@@ -83,7 +83,7 @@ ___
 
 - **[赵鹏](http://weibo.com/initsys)**：**VisualOps – re:Invent PaaS**
 
-[赵鹏](http://weibo.com/initsys)是 VisualOps 创始人，他和他的团队专注于企业级白盒 PaaS 以及 docker 集成。
+[赵鹏](http://weibo.com/initsys) 是 VisualOps 创始人，他和他的团队专注于企业级白盒 PaaS 以及 docker 集成。
 
 观看演讲 [视频](http://v.youku.com/v_show/id_XNzQxMDU4MjQw.html)
 
@@ -91,7 +91,7 @@ ___
 
 - **[邱模炯](http://weibo.com/u/2872606542)**：**Container 内核原理**
 
-[邱模炯](http://weibo.com/u/2872606542)2007年于北京大学计算机系研究生毕业，先后分别在 VMware 和腾讯从事虚拟化平台内核、 Linux 操作系统内核工作。在任职腾讯期间建立了操作系统团队，并为公司维护了定制版 Linux 操作系统，运行于公司几十万台服务器。个人技术兴趣以 Linux 内核、虚拟化和数据中心运营自动化为主。
+[邱模炯](http://weibo.com/u/2872606542) 2007年于北京大学计算机系研究生毕业，先后分别在 VMware 和腾讯从事虚拟化平台内核、 Linux 操作系统内核工作。在任职腾讯期间建立了操作系统团队，并为公司维护了定制版 Linux 操作系统，运行于公司几十万台服务器。个人技术兴趣以 Linux 内核、虚拟化和数据中心运营自动化为主。
 
 他主要介绍了 container 虚拟化技术的内核原理，常用 cgroup 和 namespace 的内部实现，其优势与不足，以及开源内核在 container 上的进展。
 
@@ -101,7 +101,29 @@ ___
 
 ____
 
+###[Docker Shanghai](http://www.meetup.com/Docker-Shanghai/)
+
+####[Docker Shanghai #1](http://www.meetup.com/Docker-Shanghai/events/170823902/)
+
+#####时间：2014年4月20日
+
+#####地点：[大众点评网](http://maps.google.com/maps?f=q&hl=en&q=%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%95%BF%E5%AE%81%E5%8C%BA%E5%AE%89%E5%8C%96%E8%B7%AF492%E5%8F%B7%E6%98%93%E5%9B%ADC%E5%BA%A72%E6%A5%BC%2C+Shanghai%2C+cn)
+
+#####讲师与话题
+
+- **[Alex Polvi](https://twitter.com/polvi)**：**CoreOS Overview**
+
+[Alex Polvi](https://twitter.com/polvi) 来自旧金山，是 [CoreOS](https://coreos.com/) 的 CEO 及联合创始人，他也是知名孵化器  Y Combinator 学员。
+
+Alex 使用 Hangouts 远程分享他的话题，他通过 slides 和 demo 为中国的开发者们介绍了 CoreOS 这一 Linux 下服务器大规模部署服务。
+
+观看演讲 [视频](http://v.youku.com/v_show/id_XNzA1OTcwNzA4.html)
+
+浏览/下载 [slides](http://resource.docker.cn/coreos-overview.pdf)
+
+- **[徐立](https://twitter.com/why404)**：**Docker 之道**
 
 
 
-
+___
+####[Docker Shanghai #2](http://www.meetup.com/Docker-Shanghai/events/197476672/)

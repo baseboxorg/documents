@@ -45,6 +45,7 @@ Docker Beijing 是国内最早成立的 Docker Meetup 群组，得到了 Docker,
 观看演讲 [视频](http://v.youku.com/v_show/id_XNjgzNzI5ODcy.html)
 
 浏览/下载 [slides](http://resource.docker.cn/20140308-beijing-docker-meetup-chenyifei.pdf)
+___
 
 ####[Docker Beijing Meetup #2](http://www.meetup.com/Docker-Beijing/events/190668082/)
 
@@ -97,4 +98,10 @@ Docker Beijing 是国内最早成立的 Docker Meetup 群组，得到了 Docker,
 观看演讲 [视频](http://v.youku.com/v_show/id_XNzQwODkwODQ0.html)
 
 浏览/下载 [slides](http://resource.docker.cn/qiumojiong-beijing-meetup.ppt)
+
+____
+
+
+
+
 

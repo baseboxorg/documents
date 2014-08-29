@@ -63,19 +63,19 @@ ___
 
   主要内容及功能演示：
 
-  - CoreOS 介绍及安装。使用 virtualbox + vagrant 在Mac 演示运行一个微型 CoreOS 集群。
+  - CoreOS 介绍及安装。使用 virtualbox + vagrant 在 Mac 演示运行一个微型 CoreOS 集群。
 
-  - fleet介绍。通过 fleet 与 coreos 集群交互。
+  - fleet 介绍。通过 fleet 与 coreos 集群交互。
 
-  - 场景设计。用户通过前端页面操作实现在 coreos 上部署docker images。
+  - 场景设计。用户通过前端页面操作实现在 coreos 上部署 docker images 。
 
     - 场景及系统架构设计；
     - 工具及服务介绍
       - 3.2.1 Web Service
       - 消息队列
       - 工作流设计
-      - 生成dockerfile并创建docker image
-      - 在coreos上部署docker image
+      - 生成 dockerfile 并创建 docker image
+      - 在 coreos 上部署 docker image
 
 观看演讲 [视频](http://v.youku.com/v_show/id_XNzQwNzU0MTQw.html)
 
@@ -111,7 +111,7 @@ ____
 
 #####讲师与话题
 
-- **[Alex Polvi](https://twitter.com/polvi)**：**CoreOS Overview**
+- **[Alex Polvi](https://twitter.com/polvi)** ：**CoreOS Overview**
 
 [Alex Polvi](https://twitter.com/polvi) 来自旧金山，是 [CoreOS](https://coreos.com/) 的 CEO 及联合创始人，他也是知名孵化器  Y Combinator 学员。
 
@@ -130,5 +130,7 @@ Alex 使用 Hangouts 远程分享他的话题，他通过 slides 和 demo 为中
 观看演讲 [视频](http://v.youku.com/v_show/id_XNzA3NDI1MzA4.html)
 
 浏览/下载 [slides](http://resource.docker.cn/)
+
+- **[杨坤鹏](cn.linkedin.com/pub/kunpeng-yang/16/35/5b5)** & **[邵育亮](http://weibo.com/u/1889619455)**：**Landing the Docker**
 ___
 ####[Docker Shanghai #2](http://www.meetup.com/Docker-Shanghai/events/197476672/)

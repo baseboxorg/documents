@@ -4,9 +4,9 @@
 
 ##Meetup 活动
 
-###[Docker Beijing](http://www.meetup.com/Docker-Beijing/) 
+在 Docker, Inc. 官方的大力支持下，我们创建并维护 Docker Beijing 和 Docker Shanghai 两个群组，并组织了一系列活动。2014年3月8日的 Beijing Meetup 是国内第一场 Docker Meetup 。
 
-Docker Beijing 是国内最早成立的 Docker Meetup 群组，得到了 Docker, Inc. 官方的大力支持。2014年3月8日我们举办了第一场 Meetup ，第二场于7月13日举行。
+###[Docker Beijing](http://www.meetup.com/Docker-Beijing/) 
 
 ####[Docker Beijing Meetup #1](http://www.meetup.com/Docker-Beijing/events/166378902/)
 
@@ -45,6 +45,8 @@ Docker Beijing 是国内最早成立的 Docker Meetup 群组，得到了 Docker,
 观看演讲 [视频](http://v.youku.com/v_show/id_XNjgzNzI5ODcy.html)
 
 浏览/下载 [slides](http://resource.docker.cn/20140308-beijing-docker-meetup-chenyifei.pdf)
+
+本次 Meetup 活动费用由 []
 ___
 
 ####[Docker Beijing Meetup #2](http://www.meetup.com/Docker-Beijing/events/190668082/)
@@ -99,6 +101,8 @@ ___
 
 浏览/下载 [slides](http://resource.docker.cn/qiumojiong-beijing-meetup.ppt)
 
+本次 Meetup 场地由 [UCloud](http://www.ucloud.cn/) 和 [拉勾网](http://www.lagou.com/) 赞助，得到了 [CSDN](http://code.csdn.net/) 的协助。
+
 ____
 
 ###[Docker Shanghai](http://www.meetup.com/Docker-Shanghai/)
@@ -129,8 +133,28 @@ Alex 使用 Hangouts 远程分享他的话题，他通过 slides 和 demo 为中
 
 观看演讲 [视频](http://v.youku.com/v_show/id_XNzA3NDI1MzA4.html)
 
-浏览/下载 [slides](http://resource.docker.cn/)
+浏览/下载 [slides](http://resource.docker.cn/the-docker-way.pdf)
 
 - **[杨坤鹏](cn.linkedin.com/pub/kunpeng-yang/16/35/5b5)** & **[邵育亮](http://weibo.com/u/1889619455)**：**Landing the Docker**
+
+**[杨坤鹏](cn.linkedin.com/pub/kunpeng-yang/16/35/5b5)** 是 [EMC](http://china.emc.com/) 中国研发中心的 Team Leader ；**[邵育亮](http://weibo.com/u/1889619455)** 是 [Splunk](http://www.splunk.com/) 软件工程师，曾供职于 [EMC](http://china.emc.com/) 中国研发中心。[邵育亮](http://weibo.com/u/1889619455) 也是上海 Meetup 的联合组织者。
+
+[杨坤鹏](cn.linkedin.com/pub/kunpeng-yang/16/35/5b5)和[邵育亮](http://weibo.com/u/1889619455)分享了他们使用 Docker  进行自动化测试的缘由、心得和经验，并且还分享了自己开发小工具，从而更高效地使用 Docker 。
+
+观看演讲 [视频](http://v.youku.com/v_show/id_XNzA0NzU4MzI4.html)
+
+浏览/下载 [slides](http://resource.docker.cn/landing-the-docker.pptx)
+
+- **[梁博](http://liangbo.me/)**：**Docker with Openstack**
+
+[梁博](http://liangbo.me/) 是 TryStack 架构师，在云计算领域有8年以上的项目经验，熟悉 OpenStack 架构设计，曾负责设计实施过国内首个基于 OpenStack 的公有云平台。
+
+他分享了如何使用 Openstack 和 Docker 管理 Linux 容器。
+
+观看演讲 [视频](http://v.youku.com/v_show/id_XNzA1MjMzMDIw.html)
+
+浏览/下载 [slids](http://resource.docker.cn/docker-with-openstack.pdf)
+
+本次 Meetup 场地由 [大众点评网](www.dianping.com) 赞助，得到了 [刘亮](http://weibo.com/323896868) 和 Openstack  全球基金会董事会董事成员 [杜玉杰](http://weibo.com/communitymanager) 的协助。
 ___
 ####[Docker Shanghai #2](http://www.meetup.com/Docker-Shanghai/events/197476672/)

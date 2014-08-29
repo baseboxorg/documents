@@ -91,7 +91,7 @@ ___
 
 - **[邱模炯](http://weibo.com/u/2872606542)**：**Container 内核原理**
 
-[邱模炯](http://weibo.com/u/2872606542) 2007年于北京大学计算机系研究生毕业，先后分别在 VMware 和腾讯从事虚拟化平台内核、 Linux 操作系统内核工作。在任职腾讯期间建立了操作系统团队，并为公司维护了定制版 Linux 操作系统，运行于公司几十万台服务器。个人技术兴趣以 Linux 内核、虚拟化和数据中心运营自动化为主。
+[邱模炯](http://weibo.com/u/2872606542) 是 [UCloud](http://www.ucloud.cn/) 的资深工程师，2007年于北京大学计算机系研究生毕业，曾先后在 VMware 和腾讯从事虚拟化平台内核、 Linux 操作系统内核工作。在任职腾讯期间建立了操作系统团队，并为公司维护了定制版 Linux 操作系统，运行于公司几十万台服务器。个人技术兴趣以 Linux 内核、虚拟化和数据中心运营自动化为主。
 
 他主要介绍了 container 虚拟化技术的内核原理，常用 cgroup 和 namespace 的内部实现，其优势与不足，以及开源内核在 container 上的进展。
 
@@ -123,7 +123,12 @@ Alex 使用 Hangouts 远程分享他的话题，他通过 slides 和 demo 为中
 
 - **[徐立](https://twitter.com/why404)**：**Docker 之道**
 
+[徐立](https://twitter.com/why404) 是 [七牛云存储](http://www.qiniu.com/) 的联合创始人兼首席布道师， Go 语言爱好者。
 
+他分享了自己对 Docker 的理解，并且介绍了七牛云存储利用 Docker 实现的新功能。
 
+观看演讲 [视频](http://v.youku.com/v_show/id_XNzA3NDI1MzA4.html)
+
+浏览/下载 [slides](http://resource.docker.cn/)
 ___
 ####[Docker Shanghai #2](http://www.meetup.com/Docker-Shanghai/events/197476672/)

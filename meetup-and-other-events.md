@@ -158,3 +158,36 @@ Alex 使用 Hangouts 远程分享他的话题，他通过 slides 和 demo 为中
 本次 Meetup 场地由 [大众点评网](www.dianping.com) 赞助，得到了 [刘亮](http://weibo.com/323896868) 和 Openstack  全球基金会董事会董事成员 [杜玉杰](http://weibo.com/communitymanager) 的协助。
 ___
 ####[Docker Shanghai #2](http://www.meetup.com/Docker-Shanghai/events/197476672/)
+
+#####时间：2014年8月23日
+
+#####地点：[VMware Shanghai Office](http://maps.google.com/maps?f=q&hl=en&q=%E4%B8%8A%E6%B5%B7%E6%9D%A8%E6%B5%A6%E5%8C%BA%E6%B7%9E%E6%B2%AA%E8%B7%AF333%E5%8F%B7%E5%88%9B%E6%99%BA%E5%A4%A9%E5%9C%B010%E5%B1%82%2C+Shanghai%2C+cn)
+
+#####讲师与话题
+
+- **[黄强]()**：**Containter In Telecom**
+
+黄强是华为中国区容器技术专家。
+
+观看演讲 [视频]()
+
+浏览/下载 [slides](http://resource.docker.cn/20140823-shanghai-meetup-huangqiang-container-in-telecom.pptx)
+
+- **[徐立](https://twitter.com/why404)**：**Go!**
+
+[徐立](https://twitter.com/why404) 是 [七牛云存储](http://www.qiniu.com/) 的联合创始人兼首席布道师， Go 语言爱好者。
+
+观看演讲 [视频]()
+
+浏览/下载 [slides](http://resource.docker.cn/20140823-shanghai-meetup-xuli-the-beauty-of-go.pdf)
+
+- **[Vincent Viallet](https://twitter.com/zbalsh)**：**Docker Do's And Don'ts**
+
+[Vincent Viallet](https://twitter.com/zbalsh) 是 [devo.ps](http://devo.ps/) 的 ops ，也在 [Wiredcraft](http://wiredcraft.com/) 负责 infrastructure 。
+
+观看演讲 [视频]()
+
+浏览/下载 [slides](http://resource.docker.cn/20140823-shanghai-meetup-vincent-docker-at-devops.pptx)
+
+
+

@@ -46,7 +46,7 @@
 
 浏览/下载 [slides](http://resource.docker.cn/20140308-beijing-docker-meetup-chenyifei.pdf)
 
-本次 Meetup 活动费用由 []
+本次 Meetup 活动得到了 [苏州跨界软件公司](http://www.crenovator.com/) 的大力支持，特此致谢。
 ___
 
 ####[Docker Beijing Meetup #2](http://www.meetup.com/Docker-Beijing/events/190668082/)
@@ -227,7 +227,17 @@ Docker 爱好者 [马金凯](http://weibo.com/u/2745455145) 进行了题为“ *
 
 下载/浏览 [slides](http://resource.docker.cn/osc-jinan-majinkai-docker.m4v)
 
-###
+###[2014 WOT 全球软件技术峰会](http://wot.51cto.com/2014/)
+
+####主办方：[51CTO 传媒](http://www.51cto.com/)
+
+51CTO 传媒是专注于 IT 技术创新与发展的互联网媒体平台，由一批资深互联网专业人士创立于2005年。以"专注 IT 技术领域，打造中国领先的 IT 技术网络平台"为宗旨，致力于面向中国广大 IT 专业人群，实现高效传播交流，持续提升技术及管理水准，促进中国信息化建设及应用健康快速发展。
+
+####时间：2014年7月25-26日
+
+####地点：北京富力万丽酒店
+
+
 
 
 

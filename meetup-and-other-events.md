@@ -189,5 +189,27 @@ ___
 
 浏览/下载 [slides](http://resource.docker.cn/20140823-shanghai-meetup-vincent-docker-at-devops.pptx)
 
+***
+
+##其它活动
+
+###[OSTC 2014](http://ostc.csdn.net/)
+
+####主办方：[CSDN](http://csdn.net/) （中国最大的 IT 社区和服务平台）
+
+####时间：2014年3月30日
+
+####地点：北京丽亭华苑酒店
+
+“OSTC 2014”（ Open Source Technology Conference ，开源技术大会）是 CSDN 主办的首届综合性开源会议，旨在为国内的开源开发者和社区提供一个交流平台，并致力于开源技术和项目的推广，促进国内开源环境建设和开源生态的发展。
+ 
+本次大会的口号为“ Open Mind, Open Source ”（启蒙 · 开源），邀请国内主要开源项目创始人、社区代表、开源技术布道者等，从操作系统、 Web 开发、移动/游戏开发、企业应用等领域深入探讨、把脉中国的开源。
+
+Docker 中文社区发起人 [马全一](http://weibo.com/genedna) 应邀在大会发表演讲，同时也接受了 [CSDN](http://www.csdn.net/) 的 [专访](http://www.csdn.net/article/2014-03-07/2818685-CSDN-OSTC-2014-Docker-interview) 。
+
+观看演讲 [视频]()
+
+下载/浏览 [slides]()
+
 
 

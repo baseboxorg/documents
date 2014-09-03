@@ -211,5 +211,24 @@ Docker 中文社区发起人 [马全一](http://weibo.com/genedna) 应邀在大�
 
 下载/浏览 [slides]()
 
+###[OSC](http://www.oschina.net/) 源创会
+
+####主办方：[OSChina 开源中国](http://www.oschina.net/)
+
+开源中国成立于2008年8月，是目前国内最大的开源技术社区，为 IT 开发者提供了一个发现、使用、并交流开源技术的平台；一直不遗余力地推动国内开源软件的应用和发展，为本土开源能力的提高、开源生态环境的优化提供长期推进的平台。
+
+####时间：2014年5月17日
+
+####场地：山东省济南高新区崇华路1111号明月大酒店
+
+Docker 爱好者 [马金凯](http://weibo.com/u/2745455145) 进行了题为“ **Docker 中使用 serf 实现自动负载均衡**”的分享。
+
+观看演讲 [视频]()
+
+下载/浏览 [slides](http://resource.docker.cn/osc-jinan-majinkai-docker.m4v)
+
+###
+
+
 
 

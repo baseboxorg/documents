@@ -209,7 +209,7 @@ Docker 中文社区发起人 [马全一](http://weibo.com/genedna) 应邀在大�
 
 观看演讲 [视频]()
 
-下载/浏览 [slides]()
+下载/浏览 [slides](http://resource.docker.cn/docker-and-docker-hub-OSTC-2014.pdf)
 
 ###[OSC](http://www.oschina.net/) 源创会
 
@@ -237,6 +237,11 @@ Docker 爱好者 [马金凯](http://weibo.com/u/2745455145) 进行了题为“ *
 
 ####地点：北京富力万丽酒店
 
+Docker 中文社区发起人 [马全一](http://weibo.com/genedna) 应邀参会，在7月26日的开源技术专场进行了“ Docker Registry By Golang ”的分享。
+
+观看演讲 [视频]()
+
+下载/浏览 [slides](http://resource.docker.cn/docker-and-docker-hub-wot-2014-beijing.pdf)
 
 
 

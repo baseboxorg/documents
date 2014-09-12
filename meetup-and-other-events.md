@@ -189,7 +189,53 @@ ___
 
 浏览/下载 [slides](http://resource.docker.cn/20140823-shanghai-meetup-vincent-docker-at-devops.pptx)
 
-###[Docker Shenzhen Meetup]()
+---
+
+###[Docker Shenzhen Meetup](http://city.oschina.net/shenzhen/event/163801)
+
+####时间：2014年8月30日
+
+####地点：[深圳市福田区车公庙天安数码城天安科技创业园大厦A栋一楼公共会议厅](http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E7%A6%8F%E7%94%B0%E5%8C%BA%E8%BD%A6%E5%85%AC%E5%BA%99%E5%A4%A9%E5%AE%89%E6%95%B0%E7%A0%81%E5%9F%8E%E5%A4%A9%E5%AE%89%E7%A7%91%E6%8A%80%E5%88%9B%E4%B8%9A%E5%9B%AD%E5%A4%A7%E5%8E%A6A%E6%A0%8B%E4%B8%80%E6%A5%BC%E5%85%AC%E5%85%B1%E4%BC%9A%E8%AE%AE%E5%8E%85)
+
+####讲师与话题
+
+- **蒙泽超：使用 CloudFoundry 的 BOSH 管理 Docker 的集群**
+
+蒙泽超是来自华为的工程师
+
+观看演讲 [视频]()
+
+浏览/下载 [slides]()
+
+- **[徐立](https://twitter.com/why404)**：** Docker 在七牛的实践**
+
+[徐立](https://twitter.com/why404) 是 [七牛云存储](http://www.qiniu.com/) 的联合创始人兼首席布道师， Go 语言爱好者。
+
+观看演讲 [视频]()
+
+浏览/下载 [slides]()
+
+- **[李泽帆]()： cgroups 内核特性**
+
+李泽帆是华为工程师，也是Linux 内核 cgroups 特性的核心维护者（ maintainer ）。
+
+观看演讲 [视频]()
+
+浏览/下载 [slides]()
+
+- **[邱模炯](http://weibo.com/u/2872606542)**：**Container 内核原理**
+
+[邱模炯](http://weibo.com/u/2872606542) 是 [UCloud](http://www.ucloud.cn/) 的资深工程师，2007年于北京大学计算机系研究生毕业，曾先后在 VMware 和腾讯从事虚拟化平台内核、 Linux 操作系统内核工作。在任职腾讯期间建立了操作系统团队，并为公司维护了定制版 Linux 操作系统，运行于公司几十万台服务器。个人技术兴趣以 Linux 内核、虚拟化和数据中心运营自动化为主。
+
+他主要介绍了 container 虚拟化技术的内核原理，常用 cgroup 和 namespace 的内部实现，其优势与不足，以及开源内核在 container 上的进展。
+
+观看演讲 [视频]()
+
+浏览/下载 [slides]()
+
+> 本次活动得到了 [开源中国](oschina.net) 的大力组织与协办，向开源中国创始人 [红薯](http://weibo.com/oschinaer) 致谢。
+
+###
 
 ***
 

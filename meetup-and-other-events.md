@@ -4,7 +4,7 @@
 
 ##Meetup 活动
 
-在 Docker, Inc. 官方的大力支持下，我们创建并维护 Docker Beijing 和 Docker Shanghai 两个群组，并组织了一系列活动。2014年3月8日的 Beijing Meetup 是国内第一场 Docker Meetup 。
+在 Docker, Inc. 官方的大力支持下，我们与其它的社区同仁创建并维护着多个 Docker Meetup 群组，并组织了一系列活动。2014年3月8日的 Beijing Meetup 是国内第一场 Docker Meetup 。
 
 ###[Docker Beijing](http://www.meetup.com/Docker-Beijing/) 
 
@@ -188,6 +188,8 @@ ___
 观看演讲 [视频]()
 
 浏览/下载 [slides](http://resource.docker.cn/20140823-shanghai-meetup-vincent-docker-at-devops.pptx)
+
+###[Docker Shenzhen Meetup]()
 
 ***
 

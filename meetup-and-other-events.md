@@ -103,6 +103,26 @@ ___
 
 本次 Meetup 场地由 [UCloud](http://www.ucloud.cn/) 和 [拉勾网](http://www.lagou.com/) 赞助，得到了 [CSDN](http://code.csdn.net/) 的协助。
 
+####[Beijing Docker X OpenStack Meetup]
+
+#####时间：2014年9月20日
+
+#####地点：[如果咖啡厅](http://maps.google.com/maps?f=q&hl=en&q=%E4%B8%AD%E5%85%B3%E6%9D%91%E8%BD%AF%E4%BB%B6%E5%9B%AD%E5%8D%97%E9%97%A8%E5%86%85%E4%BA%BF%E5%9F%8E%E8%A5%BF%E5%B1%B1%E5%85%AC%E9%A6%86%E5%BA%95%E5%95%86105%E5%8F%B7%EF%BC%88%E6%98%93%E8%B1%AA%E9%85%92%E5%BA%97%E5%AF%B9%E9%9D%A2%EF%BC%8C%E8%BD%AF%E4%BB%B6%E5%9B%AD%E4%B8%9C%E5%8D%97%E9%97%A8%E8%BE%B9%E4%B8%8A%EF%BC%89%2C+Beijing%2C+cn)
+
+#####讲师与话题
+
+- **[马全一]((http://weibo.com/genedna))**：**Docker & Docker Hub**
+
+[马全一]((http://weibo.com/genedna))， Docker 中文社区创始人，CSDN 开源技术大会、WOT全球软件技术峰会等大会讲师，致力于 Docker 开源技术在中国的推广和服务，在北京、上海和深圳等地多次组织 Docker Meetup 活动。
+
+浏览/下载 [slides]()
+
+- **[张华]()**：**When Docker Meet OpenStack**
+
+[张华]()， IBM OpenStack 专家，从2012年进入 OpenStack 社区工作，在 OpenStack 的波特兰、香港、亚特兰大峰会中都主持过 design session 。张华对 OpenStack 几大重要组件均有涉猎，主要从事 Openstack Object Store (Swift) 、 OpenStack Orchestrator(Heat) 、存储软件和 Profiling tool 的研发，在 Swift profiling 和 tracing 上有深入见解和丰富经验。
+
+浏览/下载 [slides]()
+
 ____
 
 ###[Docker Shanghai](http://www.meetup.com/Docker-Shanghai/)

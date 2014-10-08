@@ -185,7 +185,7 @@ ___
 
 #####讲师与话题
 
-- **[黄强]()**：**Containter In Telecom**
+- **黄强**：**Containter In Telecom**
 
 黄强是华为中国区容器技术专家。
 
@@ -193,7 +193,7 @@ ___
 
 浏览/下载 [slides](http://resource.docker.cn/20140823-shanghai-meetup-huangqiang-container-in-telecom.pptx)
 
-- **[徐立](https://twitter.com/why404)**：**Go!**
+- **[徐立](https://twitter.com/why404)** ：**Go!**
 
 [徐立](https://twitter.com/why404) 是 [七牛云存储](http://www.qiniu.com/) 的联合创始人兼首席布道师， Go 语言爱好者。
 
@@ -227,7 +227,7 @@ ___
 
 浏览/下载 [slides]()
 
-- **[徐立](https://twitter.com/why404)**：** Docker 在七牛的实践**
+- **[徐立](https://twitter.com/why404)**：**Docker 在七牛的实践**
 
 [徐立](https://twitter.com/why404) 是 [七牛云存储](http://www.qiniu.com/) 的联合创始人兼首席布道师， Go 语言爱好者。
 

@@ -8,6 +8,6 @@
 
 - 您可以在 [GitHub](https://github.com/dockerclouds) 查看我们的 [项目](https://github.com/dockerclouds)，并开启 issue 
 
-- 您可以在 [Twitter](https://twitter.com/dockboardorg) 和 [新浪微博](http://weibo.com/dockboard) 给我们留言
+- 您可以在 [Twitter](https://twitter.com/dockercn) 和 [新浪微博](http://weibo.com/dockboard) 给我们留言
 
 - 您也可以直接给我们发送 [邮件](mailto:contact@docker.cn)，我们会第一时间回复 

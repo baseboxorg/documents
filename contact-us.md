@@ -4,7 +4,7 @@
 
 Twitter: [@dockboardorg](https://twitter.com/dockboardorg)
 
-新浪微博：[docker.cn](http://weibo.com/dockboard)
+新浪微博：[docker.cn](http://weibo.com/dockercn)
 
 GitHub ：[docker.cn](https://github.com/dockerclouds)
 

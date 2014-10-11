@@ -1,20 +1,20 @@
-#Meetup 与其它活动介绍
+# Meetup 与其它活动介绍
 
 我们致力于推动 docker 技术在国内的推广，积极组织和运作在不同城市和地区举行 Docker Meetup ，同时也热情参与各种技术大会与相关活动。以下是我们的活动情况介绍。
 
-##Meetup 活动
+## Meetup 活动
 
 在 Docker, Inc. 官方的大力支持下，我们与其它的社区同仁创建并维护着多个 Docker Meetup 群组，并组织了一系列活动。2014年3月8日的 Beijing Meetup 是国内第一场 Docker Meetup 。
 
-###[Docker Beijing](http://www.meetup.com/Docker-Beijing/) 
+### [Docker Beijing](http://www.meetup.com/Docker-Beijing/) 
 
-####[Docker Beijing Meetup #1](http://www.meetup.com/Docker-Beijing/events/166378902/)
+#### [Docker Beijing Meetup #1](http://www.meetup.com/Docker-Beijing/events/166378902/)
 
-#####时间：2014年3月8日
+##### 时间：2014年3月8日
 
-#####地点：[车库咖啡](http://maps.google.com/maps?f=q&hl=en&q=48%E5%8F%B7%E9%91%AB%E9%BC%8E%E5%AE%BE%E9%A6%862%E6%A5%BC+%E6%B5%B7%E6%B7%80%E8%A5%BF%E5%A4%A7%E8%A1%97%2C+Haidian%2C+Beijing%2C+cn)
+##### 地点：[车库咖啡](http://maps.google.com/maps?f=q&hl=en&q=48%E5%8F%B7%E9%91%AB%E9%BC%8E%E5%AE%BE%E9%A6%862%E6%A5%BC+%E6%B5%B7%E6%B7%80%E8%A5%BF%E5%A4%A7%E8%A1%97%2C+Haidian%2C+Beijing%2C+cn)
 
-#####讲师与话题
+##### 讲师与话题
 
 - **[陈天](http://weibo.com/tchen82)**：**Build Dev ENV With Docker**
 
@@ -49,13 +49,13 @@
 本次 Meetup 活动得到了 [苏州跨界软件公司](http://www.crenovator.com/) 的大力支持，特此致谢。
 ___
 
-####[Docker Beijing Meetup #2](http://www.meetup.com/Docker-Beijing/events/190668082/)
+#### [Docker Beijing Meetup #2](http://www.meetup.com/Docker-Beijing/events/190668082/)
 
-#####时间：2014年7月13日
+##### 时间：2014年7月13日
 
-#####地点：[3w咖啡馆](https://www.google.com/maps/place/3W%E4%BA%92%E8%81%AF%E7%B6%B2%E4%B8%BB%E9%A1%8C%E5%92%96%E5%95%A1%E9%A4%A8/@39.983001,116.307046,17z/data=!3m1!4b1!4m2!3m1!1s0x35f0514f38a6da0b:0xb6f25bb43700b2bf?hl=en)
+##### 地点：[3w咖啡馆](https://www.google.com/maps/place/3W%E4%BA%92%E8%81%AF%E7%B6%B2%E4%B8%BB%E9%A1%8C%E5%92%96%E5%95%A1%E9%A4%A8/@39.983001,116.307046,17z/data=!3m1!4b1!4m2!3m1!1s0x35f0514f38a6da0b:0xb6f25bb43700b2bf?hl=en)
 
-#####讲师与话题
+##### 讲师与话题
 
 - **[桂阳](http://weibo.com/u/1656755095)**：**通过工作流实现 docker 在 coreos 的自动化部署**
 
@@ -103,13 +103,13 @@ ___
 
 本次 Meetup 场地由 [UCloud](http://www.ucloud.cn/) 和 [拉勾网](http://www.lagou.com/) 赞助，得到了 [CSDN](http://code.csdn.net/) 的协助。
 
-####[Beijing Docker X OpenStack Meetup]
+#### [Beijing Docker X OpenStack Meetup]
 
-#####时间：2014年9月20日
+##### 时间：2014年9月20日
 
 #####地点：[如果咖啡厅](http://maps.google.com/maps?f=q&hl=en&q=%E4%B8%AD%E5%85%B3%E6%9D%91%E8%BD%AF%E4%BB%B6%E5%9B%AD%E5%8D%97%E9%97%A8%E5%86%85%E4%BA%BF%E5%9F%8E%E8%A5%BF%E5%B1%B1%E5%85%AC%E9%A6%86%E5%BA%95%E5%95%86105%E5%8F%B7%EF%BC%88%E6%98%93%E8%B1%AA%E9%85%92%E5%BA%97%E5%AF%B9%E9%9D%A2%EF%BC%8C%E8%BD%AF%E4%BB%B6%E5%9B%AD%E4%B8%9C%E5%8D%97%E9%97%A8%E8%BE%B9%E4%B8%8A%EF%BC%89%2C+Beijing%2C+cn)
 
-#####讲师与话题
+##### 讲师与话题
 
 - **[马全一]((http://weibo.com/genedna))**：**Docker & Docker Hub**
 
@@ -125,15 +125,15 @@ ___
 
 ____
 
-###[Docker Shanghai](http://www.meetup.com/Docker-Shanghai/)
+### [Docker Shanghai](http://www.meetup.com/Docker-Shanghai/)
 
-####[Docker Shanghai #1](http://www.meetup.com/Docker-Shanghai/events/170823902/)
+#### [Docker Shanghai #1](http://www.meetup.com/Docker-Shanghai/events/170823902/)
 
-#####时间：2014年4月20日
+##### 时间：2014年4月20日
 
-#####地点：[大众点评网](http://maps.google.com/maps?f=q&hl=en&q=%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%95%BF%E5%AE%81%E5%8C%BA%E5%AE%89%E5%8C%96%E8%B7%AF492%E5%8F%B7%E6%98%93%E5%9B%ADC%E5%BA%A72%E6%A5%BC%2C+Shanghai%2C+cn)
+##### 地点：[大众点评网](http://maps.google.com/maps?f=q&hl=en&q=%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%95%BF%E5%AE%81%E5%8C%BA%E5%AE%89%E5%8C%96%E8%B7%AF492%E5%8F%B7%E6%98%93%E5%9B%ADC%E5%BA%A72%E6%A5%BC%2C+Shanghai%2C+cn)
 
-#####讲师与话题
+##### 讲师与话题
 
 - **[Alex Polvi](https://twitter.com/polvi)** ：**CoreOS Overview**
 
@@ -177,13 +177,13 @@ Alex 使用 Hangouts 远程分享他的话题，他通过 slides 和 demo 为中
 
 本次 Meetup 场地由 [大众点评网](www.dianping.com) 赞助，得到了 [刘亮](http://weibo.com/323896868) 和 Openstack  全球基金会董事会董事成员 [杜玉杰](http://weibo.com/communitymanager) 的协助。
 ___
-####[Docker Shanghai #2](http://www.meetup.com/Docker-Shanghai/events/197476672/)
+#### [Docker Shanghai #2](http://www.meetup.com/Docker-Shanghai/events/197476672/)
 
-#####时间：2014年8月23日
+##### 时间：2014年8月23日
 
-#####地点：[VMware Shanghai Office](http://maps.google.com/maps?f=q&hl=en&q=%E4%B8%8A%E6%B5%B7%E6%9D%A8%E6%B5%A6%E5%8C%BA%E6%B7%9E%E6%B2%AA%E8%B7%AF333%E5%8F%B7%E5%88%9B%E6%99%BA%E5%A4%A9%E5%9C%B010%E5%B1%82%2C+Shanghai%2C+cn)
+##### 地点：[VMware Shanghai Office](http://maps.google.com/maps?f=q&hl=en&q=%E4%B8%8A%E6%B5%B7%E6%9D%A8%E6%B5%A6%E5%8C%BA%E6%B7%9E%E6%B2%AA%E8%B7%AF333%E5%8F%B7%E5%88%9B%E6%99%BA%E5%A4%A9%E5%9C%B010%E5%B1%82%2C+Shanghai%2C+cn)
 
-#####讲师与话题
+##### 讲师与话题
 
 - **黄强**：**Containter In Telecom**
 
@@ -211,13 +211,13 @@ ___
 
 ---
 
-###[Docker Shenzhen Meetup](http://city.oschina.net/shenzhen/event/163801)
+### [Docker Shenzhen Meetup](http://city.oschina.net/shenzhen/event/163801)
 
-####时间：2014年8月30日
+#### 时间：2014年8月30日
 
-####地点：[深圳市福田区车公庙天安数码城天安科技创业园大厦A栋一楼公共会议厅](http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E7%A6%8F%E7%94%B0%E5%8C%BA%E8%BD%A6%E5%85%AC%E5%BA%99%E5%A4%A9%E5%AE%89%E6%95%B0%E7%A0%81%E5%9F%8E%E5%A4%A9%E5%AE%89%E7%A7%91%E6%8A%80%E5%88%9B%E4%B8%9A%E5%9B%AD%E5%A4%A7%E5%8E%A6A%E6%A0%8B%E4%B8%80%E6%A5%BC%E5%85%AC%E5%85%B1%E4%BC%9A%E8%AE%AE%E5%8E%85)
+#### 地点：[深圳市福田区车公庙天安数码城天安科技创业园大厦A栋一楼公共会议厅](http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E7%A6%8F%E7%94%B0%E5%8C%BA%E8%BD%A6%E5%85%AC%E5%BA%99%E5%A4%A9%E5%AE%89%E6%95%B0%E7%A0%81%E5%9F%8E%E5%A4%A9%E5%AE%89%E7%A7%91%E6%8A%80%E5%88%9B%E4%B8%9A%E5%9B%AD%E5%A4%A7%E5%8E%A6A%E6%A0%8B%E4%B8%80%E6%A5%BC%E5%85%AC%E5%85%B1%E4%BC%9A%E8%AE%AE%E5%8E%85)
 
-####讲师与话题
+#### 讲师与话题
 
 - **蒙泽超：使用 CloudFoundry 的 BOSH 管理 Docker 的集群**
 
@@ -255,19 +255,19 @@ ___
 
 > 本次活动得到了 [开源中国](oschina.net) 的大力组织与协办，向开源中国创始人 [红薯](http://weibo.com/oschinaer) 致谢。
 
-###
+
 
 ***
 
-##其它活动
+## 其它活动
 
-###[OSTC 2014](http://ostc.csdn.net/)
+### [OSTC 2014](http://ostc.csdn.net/)
 
-####主办方：[CSDN](http://csdn.net/) （中国最大的 IT 社区和服务平台）
+#### 主办方：[CSDN](http://csdn.net/) （中国最大的 IT 社区和服务平台）
 
-####时间：2014年3月30日
+#### 时间：2014年3月30日
 
-####地点：北京丽亭华苑酒店
+#### 地点：北京丽亭华苑酒店
 
 “OSTC 2014”（ Open Source Technology Conference ，开源技术大会）是 CSDN 主办的首届综合性开源会议，旨在为国内的开源开发者和社区提供一个交流平台，并致力于开源技术和项目的推广，促进国内开源环境建设和开源生态的发展。
  
@@ -279,15 +279,15 @@ Docker 中文社区发起人 [马全一](http://weibo.com/genedna) 应邀在大�
 
 下载/浏览 [slides](http://resource.docker.cn/docker-and-docker-hub-OSTC-2014.pdf)
 
-###[OSC](http://www.oschina.net/) 源创会
+### [OSC](http://www.oschina.net/) 源创会
 
-####主办方：[OSChina 开源中国](http://www.oschina.net/)
+#### 主办方：[OSChina 开源中国](http://www.oschina.net/)
 
 开源中国成立于2008年8月，是目前国内最大的开源技术社区，为 IT 开发者提供了一个发现、使用、并交流开源技术的平台；一直不遗余力地推动国内开源软件的应用和发展，为本土开源能力的提高、开源生态环境的优化提供长期推进的平台。
 
-####时间：2014年5月17日
+#### 时间：2014年5月17日
 
-####场地：山东省济南高新区崇华路1111号明月大酒店
+#### 场地：山东省济南高新区崇华路1111号明月大酒店
 
 Docker 爱好者 [马金凯](http://weibo.com/u/2745455145) 进行了题为“ **Docker 中使用 serf 实现自动负载均衡**”的分享。
 
@@ -295,15 +295,15 @@ Docker 爱好者 [马金凯](http://weibo.com/u/2745455145) 进行了题为“ *
 
 下载/浏览 [slides](http://resource.docker.cn/osc-jinan-majinkai-docker.m4v)
 
-###[2014 WOT 全球软件技术峰会](http://wot.51cto.com/2014/)
+### [2014 WOT 全球软件技术峰会](http://wot.51cto.com/2014/)
 
-####主办方：[51CTO 传媒](http://www.51cto.com/)
+#### 主办方：[51CTO 传媒](http://www.51cto.com/)
 
 51CTO 传媒是专注于 IT 技术创新与发展的互联网媒体平台，由一批资深互联网专业人士创立于2005年。以"专注 IT 技术领域，打造中国领先的 IT 技术网络平台"为宗旨，致力于面向中国广大 IT 专业人群，实现高效传播交流，持续提升技术及管理水准，促进中国信息化建设及应用健康快速发展。
 
-####时间：2014年7月25-26日
+#### 时间：2014年7月25-26日
 
-####地点：北京富力万丽酒店
+#### 地点：北京富力万丽酒店
 
 Docker 中文社区发起人 [马全一](http://weibo.com/genedna) 应邀参会，在7月26日的开源技术专场进行了“ Docker Registry By Golang ”的分享。
 

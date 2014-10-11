@@ -1,8 +1,8 @@
-#图书出版
+# 图书出版
 
 docker.cn 积极引进国外优秀的与 docker 相关的技术书籍。经过我们的积极联络与协调，人民邮电出版社已经将 docker 社区的里程碑著作 The Docker Book 引进、翻译，预计中译本将在今年的11月份与大家见面。
 
-##作者介绍
+## 作者介绍
 
 **[James Turnbull](https://twitter.com/kartar)**
 
@@ -26,7 +26,7 @@ James 也是众多技术书籍的作者，作品列表如下：
 
 - [Hardening Linux](http://www.jamesturnbull.net/portfolio/hardening-linux)
 
-##译者介绍
+## 译者团队
 
 - **[李兆海](https://twitter.com/googollee)**
 

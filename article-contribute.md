@@ -13,14 +13,14 @@
 
 ## 通过邮箱直接投稿
 
-我们也欢迎您向我们的投稿 [邮箱](mailto:fiona@docker.cn)发送文章投稿。我们的编辑会通过邮件的方式与您协作、修改和校对文章内容，确保文章质量。最后将文章保存在我们的 Github 文章仓库，并发表在博客主页。
+我们也欢迎您向我们的投稿 [邮箱](mailto:fiona@docker.cn) 发送文章投稿。我们的编辑会通过邮件的方式与您协作、修改和校对文章内容，确保文章质量。最后将文章保存在我们的 Github 文章仓库，并发表在博客主页。
 
 我们的官方博客采用 Markdown 格式，为了保持文章版式的统一，我们的编辑会在忠实文章内容的前提下对您的文章格式进行调整与修改。。 
 
 我们推荐您在邮件中注明您的姓名、社交媒体帐号（微博/Twitter）及联系方式，方便我们的编辑在活动中为您寄送纪念品。
 
 ***
-如果您在学习、研究与实战中有任何疑问，欢迎加入我们的 Google [邮件列表](https://groups.google.com/forum/#!forum/dockercn) 。您可以将我们添加为邮件联系人 [订阅](mailto:dockercn@googlegroups.com)，或者 [联系](mailto:fiona@docker.cn) 我们的管理员加入。
+如果您在学习、研究与实战中有任何疑问，欢迎加入我们的 Google [邮件列表](https://groups.google.com/forum/#!forum/dockercn) 。您可以将我们添加为邮件联系人 [订阅](mailto:dockercn@googlegroups.com) ，或者 [联系](mailto:fiona@docker.cn) 我们的管理员加入。
 
 
 

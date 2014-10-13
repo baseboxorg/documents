@@ -8,7 +8,7 @@ docker.cn 项目发起人，丰富的架构师经验，OSTC 、51CTO 、 Contati
 
 ## [Fiona Feng](https://twitter.com/usuede)
 
-docker.cn 项目联合发起人，负责开发者关系与市场。
+docker.cn 项目联合发起人，负责开发者关系与市场拓展。
 
 ## [孟繁亮]()
 

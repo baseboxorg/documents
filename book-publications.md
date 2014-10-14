@@ -28,8 +28,8 @@ James 也是众多技术书籍的作者，作品列表如下：
 
 ## 译者团队
 
-- **[李兆海](https://twitter.com/googollee)**
+- **[李兆海](http://weibo.com/googollee)**
 
-- **[刘斌](https://twitter.com/ourcolorfuldays)**
+- **[刘斌](http://www.weibo.com/pmproad)**
 
-- **[巨震](https://twitter.com/juzhenatpku)**
+- **[巨震](http://weibo.com/u/1288360177)**

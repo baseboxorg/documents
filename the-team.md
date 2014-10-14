@@ -6,7 +6,7 @@
 
 docker.cn 项目发起人，丰富的架构师经验，OSTC 、51CTO 、 Contatiner 技术大会讲师。
 
-## [Fiona Feng](https://twitter.com/usuede)
+## [Fiona Feng](mailto:fiona@docker.cn)
 
 docker.cn 项目联合发起人，负责开发者关系与市场拓展。
 
